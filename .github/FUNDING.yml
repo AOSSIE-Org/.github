@@ -1,0 +1,15 @@
+# These are supported funding model platforms
+
+patreon: AOSSIE
+open_collective: aossie # Replace with a single Open Collective username
+buy_me_a_coffee: aossie # Replace with a single Buy Me a Coffee username
+custom: [https://docs.stability.nexus/about-us/fund-us/donate] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+#github: [Zahnentferner, Z2, Z3, Z4]
+#ko_fi: # Replace with a single Ko-fi username
+#tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+#community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+#liberapay: # Replace with a single Liberapay username
+#issuehunt: # Replace with a single IssueHunt username
+#lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+#polar: # Replace with a single Polar username
+#thanks_dev: # Replace with a single thanks.dev username
