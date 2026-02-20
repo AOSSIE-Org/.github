@@ -1,6 +1,6 @@
 ###  Addressed Issues:
 <!-- Link the issue this PR addresses -->
-Fixes #(issue number)
+Fixes #(TODO:issue number)
 
 
 ###  Screenshots/Recordings:
@@ -22,6 +22,16 @@ Fixes #(issue number)
 - [ ] I have read the [Contribution Guidelines](../CONTRIBUTING.md)
 - [ ] Once I submit my PR, CodeRabbit AI will automatically review it and I will address CodeRabbit's comments.
 
-## ⚠️ AI Notice - Important!
+## AI Usage Disclosure
+
+Check one of the checkboxes below:
+
+- [ ] This PR does not contain AI-generated code at all.
+- [ ] This PR contains AI-generated code. I have tested the code locally and I am responsible for it.
+
+I have used the following AI models and tools: TODO
+
+
+### ⚠️ AI Notice - Important!
 
 We encourage contributors to use AI tools responsibly when creating Pull Requests. While AI can be a valuable aid, it is essential to ensure that your contributions meet the task requirements, build successfully, include relevant tests, and pass all linters. Submissions that do not meet these standards may be closed without warning to maintain the quality and integrity of the project. Please take the time to understand the changes you are proposing and their impact.
