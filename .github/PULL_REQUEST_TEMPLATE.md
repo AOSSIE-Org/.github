@@ -11,7 +11,7 @@ TODO: If applicable, add screenshots or recordings that demonstrate the interfac
 ###  Additional Notes:
 <!-- Add any additional information, context, or notes for reviewers -->
 
-### ⚠️ AI Usage Disclosure
+### AI Usage Disclosure:
 
 We encourage contributors to use AI tools responsibly when creating Pull Requests. While AI can be a valuable aid, it is essential to ensure that your contributions meet the task requirements, build successfully, include relevant tests, and pass all linters. Submissions that do not meet these standards may be closed without warning to maintain the quality and integrity of the project. Please take the time to understand the changes you are proposing and their impact. AI slop is strongly discouraged and may lead to banning and blocking. Do not spam our repos with AI slop.
 
