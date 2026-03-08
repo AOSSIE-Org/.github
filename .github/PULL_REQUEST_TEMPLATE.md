@@ -1,10 +1,11 @@
 ###  Addressed Issues:
-<!-- Link the issue this PR addresses -->
+
 Fixes #(TODO:issue number)
 
 
 ###  Screenshots/Recordings:
-<!-- If applicable, add screenshots or recordings to demonstrate the changes -->
+
+TODO: If applicable, add screenshots or recordings that demonstrate the interface **before** and **after** the changes.
 
 
 ###  Additional Notes:
