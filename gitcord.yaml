@@ -57,6 +57,8 @@ github:
     - Social-Street-Smart
     - SocialShareButton
     - Template-Repo
+    - ThruBox-Client
+    - ThruBox-Server
     - WebSift
     - Zplit
     - social-street-smart-api
@@ -119,6 +121,8 @@ discord:
     SmartNotes: '1468243553846038703'
     Social-Street-Smart: '1317911918685454387'
     SocialShareButton: '1479012884209078365'
+    ThruBox-Client: '1525382676964446258'
+    ThruBox-Server: '1525382676964446258'
     WebSift: '1483768065161170944'
     Zplit: '1438097765887643709'
     social-street-smart-api: '1317911918685454387'
