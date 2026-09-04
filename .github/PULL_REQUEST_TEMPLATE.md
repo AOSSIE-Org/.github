@@ -31,6 +31,6 @@ I have used the following AI models and tools: TODO
 - [ ] If applicable, I have made corresponding changes or additions to tests
 - [ ] My changes generate no new warnings or errors
 - [ ] I have joined the [Discord server](https://discord.gg/hjUhu33uAn) and I will share a link to this PR with the project maintainers there
-- [ ] I have read the [Contribution Guidelines](../CONTRIBUTING.md)
+- [ ] I have read the [Contribution Guidelines](../ContributionGuidelines.md)
 - [ ] Once I submit my PR, CodeRabbit AI will automatically review it and I will address CodeRabbit's comments.
 - [ ] I have filled this PR template completely and carefully, and I understand that my PR may be closed without review otherwise.
