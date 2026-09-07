@@ -128,7 +128,7 @@ discord:
     social-street-smart-api: '1317911918685454387'
   notifications:
     enabled: true
-    issue_assignment: false
+    issue_assignment: true
     pr_review_requested: true
     pr_review_result: true
     pr_review_comment: true
