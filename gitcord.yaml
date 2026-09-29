@@ -34,9 +34,11 @@ github:
     - Gitcord-Test
     - InPactAI
     - IndexedDB-Import-Export
+    - Info
     - LibrEd
     - Monumento
     - MoveYourBody
+    - MoveYourBody-Website
     - NeuroTrack
     - Ogh
     - OpenPeerChat-flutter
@@ -60,6 +62,7 @@ github:
     - ThruBox-Client
     - ThruBox-Server
     - WebSift
+    - Website
     - Zplit
     - social-street-smart-api
 discord:
@@ -102,9 +105,11 @@ discord:
     Gitcord-Test: '1524006041677729823'
     InPactAI: '1345044736515379210'
     IndexedDB-Import-Export: '1509409386102259803'
+    Info: '1458840574076387448'
     LibrEd: '1486687395180052642'
     Monumento: '1317915966218309685'
     MoveYourBody: '1500966300782956634'
+    MoveYourBody-Website: '1458840574076387448'
     NeuroTrack: '1347053043711082507'
     Ogh: '1531495258217648268'
     OpenPeerChat-flutter: '1317925790939217974'
@@ -124,6 +129,7 @@ discord:
     ThruBox-Client: '1525382676964446258'
     ThruBox-Server: '1525382676964446258'
     WebSift: '1483768065161170944'
+    Website: '1458840574076387448'
     Zplit: '1438097765887643709'
     social-street-smart-api: '1317911918685454387'
   notifications:
